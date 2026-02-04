@@ -1,8 +1,8 @@
 
 import { useState, useEffect } from 'react';
-import Header from './components/header';
+import Header from './components/Header';
 import ProductList from './components/ProductList';
-import CartSidebar from './components/cartsidebar';
+import CartSidebar from './components/CartSidebar';
 import './App.css';
 
 function App() {
